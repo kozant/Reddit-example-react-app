@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reddit-example-react-app/static/css/main.31dc98e9.chunk.css",
+    "main.js": "/reddit-example-react-app/static/js/main.4b20f7e8.chunk.js",
+    "main.js.map": "/reddit-example-react-app/static/js/main.4b20f7e8.chunk.js.map",
+    "runtime-main.js": "/reddit-example-react-app/static/js/runtime-main.e4f3e37e.js",
+    "runtime-main.js.map": "/reddit-example-react-app/static/js/runtime-main.e4f3e37e.js.map",
+    "static/js/2.09e93c1b.chunk.js": "/reddit-example-react-app/static/js/2.09e93c1b.chunk.js",
+    "static/js/2.09e93c1b.chunk.js.map": "/reddit-example-react-app/static/js/2.09e93c1b.chunk.js.map",
+    "index.html": "/reddit-example-react-app/index.html",
+    "precache-manifest.1a463a6dd2736d143636c3826ffc309f.js": "/reddit-example-react-app/precache-manifest.1a463a6dd2736d143636c3826ffc309f.js",
+    "service-worker.js": "/reddit-example-react-app/service-worker.js",
+    "static/css/main.31dc98e9.chunk.css.map": "/reddit-example-react-app/static/css/main.31dc98e9.chunk.css.map",
+    "static/js/2.09e93c1b.chunk.js.LICENSE": "/reddit-example-react-app/static/js/2.09e93c1b.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4f3e37e.js",
+    "static/js/2.09e93c1b.chunk.js",
+    "static/css/main.31dc98e9.chunk.css",
+    "static/js/main.4b20f7e8.chunk.js"
+  ]
+}
