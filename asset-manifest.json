@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-graduate-work/static/css/main.31dc98e9.chunk.css",
-    "main.js": "/React-graduate-work/static/js/main.cc31d64d.chunk.js",
-    "main.js.map": "/React-graduate-work/static/js/main.cc31d64d.chunk.js.map",
+    "main.js": "/React-graduate-work/static/js/main.af2aa61e.chunk.js",
+    "main.js.map": "/React-graduate-work/static/js/main.af2aa61e.chunk.js.map",
     "runtime-main.js": "/React-graduate-work/static/js/runtime-main.236f5faf.js",
     "runtime-main.js.map": "/React-graduate-work/static/js/runtime-main.236f5faf.js.map",
     "static/js/2.09e93c1b.chunk.js": "/React-graduate-work/static/js/2.09e93c1b.chunk.js",
     "static/js/2.09e93c1b.chunk.js.map": "/React-graduate-work/static/js/2.09e93c1b.chunk.js.map",
     "index.html": "/React-graduate-work/index.html",
-    "precache-manifest.37d00f1957ab1ddfe53f31e0c8c3a728.js": "/React-graduate-work/precache-manifest.37d00f1957ab1ddfe53f31e0c8c3a728.js",
+    "precache-manifest.eb3c9b6c359cddb8b62c30772b9d049b.js": "/React-graduate-work/precache-manifest.eb3c9b6c359cddb8b62c30772b9d049b.js",
     "service-worker.js": "/React-graduate-work/service-worker.js",
     "static/css/main.31dc98e9.chunk.css.map": "/React-graduate-work/static/css/main.31dc98e9.chunk.css.map",
     "static/js/2.09e93c1b.chunk.js.LICENSE": "/React-graduate-work/static/js/2.09e93c1b.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.236f5faf.js",
     "static/js/2.09e93c1b.chunk.js",
     "static/css/main.31dc98e9.chunk.css",
-    "static/js/main.cc31d64d.chunk.js"
+    "static/js/main.af2aa61e.chunk.js"
   ]
 }
