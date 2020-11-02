@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Reddit-example-react-app/static/css/main.31dc98e9.chunk.css",
-    "main.js": "/Reddit-example-react-app/static/js/main.fceb3695.chunk.js",
-    "main.js.map": "/Reddit-example-react-app/static/js/main.fceb3695.chunk.js.map",
-    "runtime-main.js": "/Reddit-example-react-app/static/js/runtime-main.bd38f8a2.js",
-    "runtime-main.js.map": "/Reddit-example-react-app/static/js/runtime-main.bd38f8a2.js.map",
-    "static/js/2.09e93c1b.chunk.js": "/Reddit-example-react-app/static/js/2.09e93c1b.chunk.js",
-    "static/js/2.09e93c1b.chunk.js.map": "/Reddit-example-react-app/static/js/2.09e93c1b.chunk.js.map",
-    "index.html": "/Reddit-example-react-app/index.html",
-    "precache-manifest.264c5e5c46b05ce562587475b1ed0736.js": "/Reddit-example-react-app/precache-manifest.264c5e5c46b05ce562587475b1ed0736.js",
-    "service-worker.js": "/Reddit-example-react-app/service-worker.js",
-    "static/css/main.31dc98e9.chunk.css.map": "/Reddit-example-react-app/static/css/main.31dc98e9.chunk.css.map",
-    "static/js/2.09e93c1b.chunk.js.LICENSE": "/Reddit-example-react-app/static/js/2.09e93c1b.chunk.js.LICENSE"
+    "main.css": "/React-graduate-work/static/css/main.4b9d851f.chunk.css",
+    "main.js": "/React-graduate-work/static/js/main.c8e951d8.chunk.js",
+    "main.js.map": "/React-graduate-work/static/js/main.c8e951d8.chunk.js.map",
+    "runtime-main.js": "/React-graduate-work/static/js/runtime-main.236f5faf.js",
+    "runtime-main.js.map": "/React-graduate-work/static/js/runtime-main.236f5faf.js.map",
+    "static/js/2.09e93c1b.chunk.js": "/React-graduate-work/static/js/2.09e93c1b.chunk.js",
+    "static/js/2.09e93c1b.chunk.js.map": "/React-graduate-work/static/js/2.09e93c1b.chunk.js.map",
+    "index.html": "/React-graduate-work/index.html",
+    "precache-manifest.df5c9535c2c8575b75003251273712b9.js": "/React-graduate-work/precache-manifest.df5c9535c2c8575b75003251273712b9.js",
+    "service-worker.js": "/React-graduate-work/service-worker.js",
+    "static/css/main.4b9d851f.chunk.css.map": "/React-graduate-work/static/css/main.4b9d851f.chunk.css.map",
+    "static/js/2.09e93c1b.chunk.js.LICENSE": "/React-graduate-work/static/js/2.09e93c1b.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.bd38f8a2.js",
+    "static/js/runtime-main.236f5faf.js",
     "static/js/2.09e93c1b.chunk.js",
-    "static/css/main.31dc98e9.chunk.css",
-    "static/js/main.fceb3695.chunk.js"
+    "static/css/main.4b9d851f.chunk.css",
+    "static/js/main.c8e951d8.chunk.js"
   ]
 }
